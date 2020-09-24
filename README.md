@@ -11,9 +11,9 @@ Explored a dataset of dataset of MBA graduates from the Jain University in Banga
 
 # [Project 2: EDA of Fatal Police Shootings](https://github.com/AlexHumpert/EDA_Fatal_Police_Shootings)
 Explored a dataset of fatal police shootigs collected by the Washington Post since January 1, 2015. Some of the insights made are:
-* The typical victim of a fatal police shooting is a 34 year-old white, male with signs of showing a mental illness. He is most likely to be shot in January, and is armed and attacking officers with said weapon upon being fataly shot.  
+* The typical victim of a fatal police shooting is a 34 year-old white, male with indications of mental illness. He is most likely to be shot in January,is armed and attacking officers who fatally shoot him.
 * Although representing just 13% of the total US population, African Americans are significantly overrepresented in fatal police shooting data, representing 26% of all fatal police shootings.
-* The top four states account for approximately 33% of all police shootings in the USA. 
+* The top four states (California,  account for approximately 33% of all police shootings in the USA. 
 
 # [Project 3: EDA of State of Iowa Liquor Sales](https://public.tableau.com/profile/alex.h#!/vizhome/iowa_liquor/Story2)
 For the final project of a one-week Data Analytics Bootcamp at General Assembly, NYC, students were asked to explore the state of Iowa's SQL liquor sales database. The following are some of the insights derived from the exploration:
