@@ -21,10 +21,10 @@ For the final project of a one-week Data Analytics Bootcamp at General Assembly,
 * Dickinson county has the largest sales per capita and at the same time is the county with the second smallest yearly sales.
 * Dickinson county sees just over 90% of its sales on Tuesday and a 20,000% spike in sales from Friday to Saturday. 
 
-# [Project 4: Tableau - Dashboard of GDP & C02 Emissions per Capita Relationships](https://public.tableau.com/profile/alex.h#!/vizhome/CapitaxCO2Dashboard/Dashboard)
+# [Project 4: Tableau - Dashboard of GDP & C02 Emissions per Capita](https://public.tableau.com/profile/alex.h#!/vizhome/CapitaxCO2Dashboard/Dashboard)
 Gapminder maintains a database of historical economic development data for countries around the world. The following Tableau dashboard displays relationships between  economic, demographic and CO2 emissions data for countries across the world. Some insights from a first glance of the dashboard are the following: 
 * GDP per capita is positively linked to CO2 emissions per capita.
-* CO2 emissions will have to be cut heavily by wealthier countries. 
+* To significantly curb C02 emissions, wealthier industrialized countries will need to lead the way.
 
 # [Project 5: Google Data Studio - Dashboard of Fintech vs AI Unicorns](https://datastudio.google.com/s/qmprAyzjoY0)
 Deep Contractor, Associate Data Scientist at CelebalTech and Kaggle Datasets Master posted a csv file of all current Unicorn Companies in the world. The following explanatory Google Data Studios dashboard explores difference between fintech and AI unicorns across features such as - count, valuations, years founded and geographical concentration. Some insights from a first glance of the dashboard are the following: 
