@@ -9,7 +9,7 @@ Explored a dataset of dataset of MBA graduates from the Jain University in Banga
  * The Marketing with Finance MBA specialization is better than the Marketing with HR specialization. 
  * The Commerce or Science Undergraduate degree is better than any of the "Other" degrees. 
 
-# [Project 2: Pyton - EDA of Fatal Police Shootings](https://github.com/AlexHumpert/EDA_Fatal_Police_Shootings)
+# [Project 2: Python - EDA of Fatal Police Shootings](https://github.com/AlexHumpert/EDA_Fatal_Police_Shootings)
 Explored a dataset of fatal police shootigs collected by the Washington Post since January 1, 2015. Some of the insights made are:
 * The typical victim of a fatal police shooting is a 34 year-old white, male with indications of mental illness. He is most likely to be shot in January while armed and attacking officers.
 * Although representing just 13% of the total US population, African Americans are significantly overrepresented in fatal police shooting data, representing 26% of all fatal police shootings.
