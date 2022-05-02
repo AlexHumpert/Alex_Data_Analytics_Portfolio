@@ -11,9 +11,9 @@ Explored a dataset of dataset of MBA graduates from the Jain University in Banga
 
 # [Project 2: Pyton - EDA of Fatal Police Shootings](https://github.com/AlexHumpert/EDA_Fatal_Police_Shootings)
 Explored a dataset of fatal police shootigs collected by the Washington Post since January 1, 2015. Some of the insights made are:
-* The typical victim of a fatal police shooting is a 34 year-old white, male with indications of mental illness. He is most likely to be shot in January,is armed and attacking officers who fatally shoot him.
+* The typical victim of a fatal police shooting is a 34 year-old white, male with indications of mental illness. He is most likely to be shot in January while armed and attacking officers.
 * Although representing just 13% of the total US population, African Americans are significantly overrepresented in fatal police shooting data, representing 26% of all fatal police shootings.
-* The top four states (California,  account for approximately 33% of all police shootings in the USA. 
+* Just the top four states California, Texas, Florida and Arizona, account for approximately 33% of all police shootings in the USA. 
 
 # [Project 3: Tableau - EDA of State of Iowa Liquor Sales](https://public.tableau.com/profile/alex.h#!/vizhome/iowa_liquor/Story2)
 For the final project of a one-week Data Analytics Bootcamp at General Assembly, NYC, students were asked to explore the state of Iowa's SQL liquor sales database. The following are some of the insights derived from the exploration:
@@ -27,7 +27,7 @@ Gapminder maintains a database of historical economic development data for count
 * To significantly curb C02 emissions, wealthier industrialized countries will need to lead the way.
 
 # [Project 5: Google Data Studio - Dashboard of Fintech vs AI Unicorns](https://datastudio.google.com/s/qmprAyzjoY0)
-Deep Contractor, Associate Data Scientist at CelebalTech and Kaggle Datasets Master posted a csv file of all current Unicorn Companies in the world. The following explanatory Google Data Studios dashboard explores difference between fintech and AI unicorns across features such as - count, valuations, years founded and geographical concentration. Some insights from a first glance of the dashboard are the following: 
+Deep Contractor, Associate Data Scientist at CelebalTech and Kaggle Datasets Master posted a csv file of all current Unicorn Companies in the world. The following Google Data Studios dashboard explores differences between fintech and AI unicorns across features such as - count, valuations, years founded and geographical concentration. Some insights from a first glance of the dashboard are the following: 
 * Fintech has the highest number of unicorns (205) and AI has the 4th highest (72).
 * Despite Fintech having a higher count and total valuation ($blns), AI unicorns has a higher average valuation of 4.31 vs 3.38 $bln.
 * USA is leading the race in AI and Fintech unicorns - 148. However, between the two industries, is home overwhelmingly to Fintech unicorns (108 vs 40).
