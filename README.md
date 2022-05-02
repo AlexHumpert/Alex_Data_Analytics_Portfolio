@@ -1,4 +1,4 @@
-# Alex_Portfolio
+# Data Analytics Portfolio
 Data Analytics Portfolio - Exploratory Data Analysis (Python, Tableau) and Dashboards (Tableau and Google Data Studios)
 
 # [Project 1: Python - EDA of Jain University Job Placements](https://github.com/AlexHumpert/EDA_Jain_University_Placements)
