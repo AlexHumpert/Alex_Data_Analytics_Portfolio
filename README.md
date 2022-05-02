@@ -1,5 +1,5 @@
 # Alex_Portfolio
-Data Analytics Portfolio - Exploratory Data Analysis and Dashboard Creation in Tableau and Google Data Studios.
+Data Analytics Portfolio - Exploratory Data Analysis (Python, Tableau) and Dashboards (Tableau and Google Data Studios)
 
 # [Project 1: EDA of Jain University Job Placements](https://github.com/AlexHumpert/EDA_Jain_University_Placements)
 Explored a dataset of dataset of MBA graduates from the Jain University in Bangalore. The owner of the dataset, Ben Roshdan, a graduate of the university himself, uploaded the dataset on Kaggle asking for the community to help him find insights. Some of the insights made are:
