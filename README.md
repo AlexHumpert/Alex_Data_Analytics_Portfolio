@@ -6,8 +6,7 @@ Data Analytics Portfolio - Exploratory Data Analysis (Excel, Python) and Dashboa
 
 We test this by running a linear regression with service sector value added (% of GDP) as the explanatory variable and wealth (using GDP/K as a proxy indicator) as the target variable on a cross-sectional sample of 184 developing and developed countries. We find a moderately strong, positive linear relationship **(r = 0.58)** between the variables, however the **linear regression model only explains 29% of the variation** in the target, despite residuals being white noise.
 
-Although we may infer a positive relationship bewteen the two variables, our model does a poor job of explaining the target (which is to be expected given the domain covered and narrow features used). However, adding more relevant explanatory features, such as proportion of labor force with advanced education and the proportion of population with internet access, may help produce a better model.
-
+Although we may infer a positive relationship bewteen the two variables, our model does a poor job of explaining the target (which is to be expected given the domain covered and narrow features used). However, some easy steps to improve our model could be to add more relevant explantory features and testing non-linear models. Examples of features proportion of labor force with advanced education and the proportion of population with internet access.
 
 
 # [Project 2: Tableau - Dashboard of GDP & C02 Emissions per Capita](https://public.tableau.com/profile/alex.h#!/vizhome/CapitaxCO2Dashboard/Dashboard)
