@@ -2,9 +2,14 @@
 Data Analytics Portfolio - Exploratory Data Analysis (Excel, Python) and Dashboards (Tableau and Google Data Studios)
 
 # [Project 1: Excel - Linear Regression of Relative Size of Service Sector vs GDP per Capita](https://github.com/AlexHumpert/GDP-Capita_vs_Service_Sector)
-“Structural Transformation” is a theory in economic development that makes the following prediction: "as a country's economic activity shifts from agriculture, to manufacturing to the services sector, gdp per capita will rise". Is this relationship statistically sound? Can we provide policy makers with data-driven insights to help decision making?
+“Structural Transformation” is a theory in economic development that makes the following prediction: "as a country's economic activity shifts from agriculture, to manufacturing to the services sector, gdp per capita will rise." 
 
-We test this by running a linear regression with service sector value added (% of GDP) as the explanatory variable and wealth (using GDP/K as a proxy indicator) as the target variable on a cross-sectional sample of 184 developing and developed countries. We find a moderately strong, positive linear relationship **(r = 0.58)** between the variables, however the **linear regression model only explains 29% of the variation** in the target, despite residuals being white noise.
+However, is this relationship statistically sound? Can we provide policy makers with data-driven insights to help improve decision-making on such a complex topic? 
+We try this by running a simple linear regression with two variables on a cross-sectional sample of 184 developing and developed countries for the year 2016: 
+- Explanatory variable: service sector value added (% of GDP) as the explanatory variable
+- Target variable: wealth (using GDP/K as a proxy indicator) as the target variable
+
+We find a moderately strong, positive linear relationship **(r = 0.58)** between the variables, however the **linear regression model only explains 29% of the variation** in the target, despite residuals being white noise.
 
 Although we may infer a positive relationship bewteen the two variables, our model does a poor job of explaining the target (which is to be expected given the domain covered and narrow features used). However, some easy steps to improve our model could be to add more relevant explantory features and testing non-linear models. Examples of features proportion of labor force with advanced education and the proportion of population with internet access.
 
